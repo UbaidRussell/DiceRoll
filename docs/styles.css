@@ -42,7 +42,7 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
-/*button{
+button{
   position: relative;
   text-align:center;
   background-color: white;
@@ -53,7 +53,6 @@ footer {
   text-align: center;
   left: 40%;
 }
-*/
 .button {
   position: relative;
   background-color: #4CAF50;
