@@ -1,3 +1,3 @@
 # DiceRoll
 
-DiceRoll game. [View Here](ubaidrussell.com/DiceRoll/)
+DiceRoll game. [View Here](http://ubaidrussell.com/DiceRoll/)
