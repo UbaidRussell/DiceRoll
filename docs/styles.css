@@ -27,7 +27,7 @@ h1 {
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: red;
   font-family: 'Indie Flower', cursive;
 }
 
@@ -56,7 +56,7 @@ button{
 }
 .button {
   position: relative;
-  background-color: #4CAF50;
+  background-color: red;
   border: none;
   font-size: 28px;
   color: #FFFFFF;
