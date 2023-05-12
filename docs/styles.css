@@ -89,3 +89,8 @@ button{
   opacity: 1;
   transition: 0s
 }
+@media screen and (max-width: 600px) {
+  body{
+    flex-wrap: flex;
+  }
+}
