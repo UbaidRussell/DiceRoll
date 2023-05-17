@@ -45,18 +45,9 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
-button{
-  position: relative;
-  text-align:center;
-  background-color: white;
-  color: black;
-  border: 2px solid #4CAF50;
-  font-size: 50px;
-  border-radius: 8px;
-  text-align: center;
-  left: 40%;
-}
-.button {
+
+
+button {
   position: relative;
   background-color: red;
   border: none;
@@ -69,8 +60,10 @@ button{
   text-decoration: none;
   overflow: hidden;
   cursor: pointer;
+  border-radius: 8px;
+  left: 25vw;
 }
-.button:after {
+button:after {
   content: "";
   background: #f1f1f1;
   display: block;
@@ -89,8 +82,19 @@ button{
   opacity: 1;
   transition: 0s
 }
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 100px) and (max-width: 600px){
   body{
     flex-wrap: flex;
+  }
+  h1 {
+    margin: 10px;
+    font-size: 5rem;
+  }
+  .container{
+    margin:auto;
+  }
+  button{
+    color: black;
+    margin: auto;
   }
 }
